@@ -1,0 +1,6 @@
+{
+  "name": "RootForge - Unrestricted Cybersecurity Labs",
+  "description": "TryHackMe-style cybersecurity training platform without subscription limits. 100% unlocked rooms, guided penetration testing labs, integrated AttackBox terminal, and interactive vulnerable target machines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
